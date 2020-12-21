@@ -4,7 +4,8 @@
 - 📫 How to reach me: You can send an email to nataliadasilva.dev@gmail.com or contact me on linkedin: https://www.linkedin.com/in/natalia-silva-dev/
 - :video_game: Fun fact: I'm passionated by game design and pixel art
 
-**Languages, Frameworks and Tools:**
+### Languages, Frameworks and Tools
+<hr/>
 
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:10px">&nbsp;&nbsp;&nbsp;
@@ -21,8 +22,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" height="40" style="vertical-align:top; margin:4px">
  </div>
  
- **Github Statistics**
- 
+ ### Github Statistics
+ <hr/>
+
  ![](https://visitor-badge.laobi.icu/badge?page_id=rootdevna.rootdevna)&nbsp;&nbsp;&nbsp;
  [![Github](https://img.shields.io/github/followers/rootdevna?label=Follow&style=social)](https://github.com/rootdevna)
  
