@@ -25,12 +25,12 @@
  
  <h2>Github Statistics</h2>
 
- ![](https://visitor-badge.laobi.icu/badge?page_id=rootdevna.rootdevna)&nbsp;&nbsp;&nbsp;
- [![Github](https://img.shields.io/github/followers/rootdevna?label=Follow&style=social)](https://github.com/rootdevna)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=nataliadsgil.nataliadsgil)&nbsp;&nbsp;&nbsp;
+ [![Github](https://img.shields.io/github/followers/nataliadsgil?label=Follow&style=social)](https://github.com/nataliadsgil)
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rootdevna&show_icons=true)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliadsgil&show_icons=true)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootdevna&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliadsgil&layout=compact)
 
 
 
