@@ -1,7 +1,6 @@
 <h1>Hi there 👋 My name is Natália!</h1>
 
 - :mag: I’m currently interested on web development with React and Node.js
-- 📫 How to reach me: You can send an email to nataliadasilva.dev@gmail.com or contact me on linkedin: https://www.linkedin.com/in/natalia-silva-dev/
 - :video_game: Fun fact: I'm passionated by game design and pixel art
 
 <h2>Languages, Frameworks and Tools</h2>
